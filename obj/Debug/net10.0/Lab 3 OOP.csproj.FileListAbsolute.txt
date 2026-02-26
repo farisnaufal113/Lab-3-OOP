@@ -1,0 +1,14 @@
+C:\Users\farea\source\repos\Lab 3 OOP\bin\Debug\net10.0\Lab 3 OOP.exe
+C:\Users\farea\source\repos\Lab 3 OOP\bin\Debug\net10.0\Lab 3 OOP.deps.json
+C:\Users\farea\source\repos\Lab 3 OOP\bin\Debug\net10.0\Lab 3 OOP.runtimeconfig.json
+C:\Users\farea\source\repos\Lab 3 OOP\bin\Debug\net10.0\Lab 3 OOP.dll
+C:\Users\farea\source\repos\Lab 3 OOP\bin\Debug\net10.0\Lab 3 OOP.pdb
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.AssemblyInfoInputs.cache
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.AssemblyInfo.cs
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.csproj.CoreCompileInputs.cache
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.dll
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\refint\Lab 3 OOP.dll
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.pdb
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\Lab 3 OOP.genruntimeconfig.cache
+C:\Users\farea\source\repos\Lab 3 OOP\obj\Debug\net10.0\ref\Lab 3 OOP.dll
